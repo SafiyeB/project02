@@ -20,7 +20,11 @@ System.out.println("Here is the conflict we have from master branch");
 
 System.out.println("Here is ANOTHER conflict we have from remote master branch");		
 System.out.println("Here are some changes from feature local branch");
+
+System.out.println("here is the conflict on local feature ");
+
 	System.out.println("Here are some changes from feature remote branch");	
+
 	}
 
 }
